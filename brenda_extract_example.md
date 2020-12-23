@@ -63,7 +63,7 @@ ace %>% filter(fieldInfo == "acetaldehyde")
     ## 2 61        24          acetaldehyde #61# isozyme ADH II, pH 6.0, 25°C <1… 113
 
 To be able to extract all the information desired from the brenda
-database, we can use the functions detailed [here](). The following is
+database, we can use the functions detailed [here](https://github.com/sktorre/brenda_research/blob/main/brenda_extract.md). The following is
 an example of using those functions to extract the parameters listed
 below for EC number 1.1.1.1.
 
