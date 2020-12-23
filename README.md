@@ -1,4 +1,4 @@
-# brenda_research
+# Extract data from Brenda database
 Extracting and Cleaning data from the Brenda Database
 
 The files in this repository contain functions I created to extract and clean data from the [brenda database](https://www.brenda-enzymes.org). This makes the data easier to digest, perform analysis and join with other sources.
