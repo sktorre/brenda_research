@@ -51,7 +51,7 @@ ace <- example[["1.1.1.1"]][["parameters"]][["km.value"]]
 
 ace %>% filter(fieldInfo == "acetaldehyde")
 ```
-To be able to extract all the information desired from the brenda database, we can use the functions detailed [here](). The following is an example of using those functions to extract the parameters listed below for EC number 1.1.1.1.
+To be able to extract all the information desired from the brenda database, we can use the functions detailed [here](https://github.com/sktorre/brenda_research/blob/main/brenda_extract.md). The following is an example of using those functions to extract the parameters listed below for EC number 1.1.1.1.
 
 ```{r, warning = FALSE, message = FALSE}
 parameters <- c("km.value", "turnover.number", "ki.value", "temperature.range", 
